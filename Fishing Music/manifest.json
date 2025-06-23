@@ -1,0 +1,9 @@
+{
+  "Name": "Fishing Minigame Music",
+  "Author": "Aiden",
+  "Version": "1.0.0",
+  "Description": "Plays music during the fishing minigame.",
+  "UniqueID": "Mindstormman.FishingMusicPlayer",
+  "EntryDll": "FishingMusic1.dll",
+  "MinimumApiVersion": "3.18.0"
+}

@@ -1,0 +1,21 @@
+{
+  "Format": "2.3.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/AudioChanges",
+      "Entries": {
+        "archaeo": {
+          "ID": "archaeo",
+          "Category": "Music",
+          "Filepaths": ["{{AbsoluteFilePath: assets/archaeo.wav}}"]
+        },
+        "sappypiano": {
+          "ID": "sappypiano",
+          "Category": "Music",
+          "Filepaths": ["{{AbsoluteFilePath: assets/sappypiano.wav}}"]
+        }
+      }
+    }
+  ]
+}

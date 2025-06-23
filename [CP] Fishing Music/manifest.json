@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Fishing Music Replacer",
+  "Author": "Mindstormman",
+  "Version": "1.0.0",
+  "Description": "Replaces a unused song for use during fishing",
+  "UniqueID": "Mindstormman.FishingMusicPlayer.replacer",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+	"UniqueID": "Mindstormman.FishingMusicPlayer"
+  }
+}
